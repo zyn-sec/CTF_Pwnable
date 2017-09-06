@@ -1,0 +1,2 @@
+Can not find a way to disable the double free detection in glibc.
+Something wrong with the pwntools to use external libc.so file!
